@@ -1,4 +1,4 @@
-export default function Main () {
+export default function ReservationsMain () {
     return (
         <main>
             Main

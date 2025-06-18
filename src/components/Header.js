@@ -1,7 +1,7 @@
-export default function Header () {
+export default function Header (props) {
     return (
         <header>
-            <h1>Make a Reservation</h1>
+            <h1>{props.page_header}</h1>
         </header>
     );
 }

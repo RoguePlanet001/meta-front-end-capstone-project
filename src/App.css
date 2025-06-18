@@ -14,7 +14,7 @@ nav {
   flex-wrap: wrap;
 }
 
-nav a {
+.nav-link {
   text-decoration: none;
   color: black;
   font-family: Karla;
