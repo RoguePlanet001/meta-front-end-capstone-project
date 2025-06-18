@@ -1,7 +1,7 @@
 export default function Header () {
     return (
         <header>
-            Header
+            <h1>Make a Reservation</h1>
         </header>
     );
 }
